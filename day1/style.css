@@ -1,0 +1,10 @@
+.info {
+    border:  2px solid;
+    border-radius: 5px;
+    width: 600px;
+}
+
+.info .img{
+    width: 400px;
+    height: 350px;
+}
